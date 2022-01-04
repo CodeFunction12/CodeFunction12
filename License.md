@@ -1,5 +1,5 @@
-										                  Code-dev General license
-										                 Copyright (C) 2021-2022 v3
+							Code-dev General license
+						       Copyright (C) 2021-2022 v3
 The license can be copy into your program as legal stub, but change it is not allowed
 
 TERMS OF SERVIES:
